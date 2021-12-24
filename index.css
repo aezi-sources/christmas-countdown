@@ -2,6 +2,11 @@
   background: url('https://wallpaperaccess.com/full/1466431.jpg')
 }
 
+h1 {
+  padding: 300px;
+  color: white;
+}
+
 /* customizable snowflake styling */
 .snowflake {
   color: #fff;
