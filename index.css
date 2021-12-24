@@ -1,5 +1,6 @@
 .countdown {
-  background: url('new-gen.jpeg')
+  background-image: url('new-gen.jpeg')
+  background-repeat: no-repeat;
 }
 
 h1 {
