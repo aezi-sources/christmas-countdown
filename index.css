@@ -1,4 +1,4 @@
-.countdown {
+body {
   background-image: url("real-gen.jpg");
   background-repeat: no-repeat;
   width: 1200px;
@@ -6,8 +6,19 @@
 }
 
 h1 {
-  padding: 300px;
-  color: white;
+  padding-top: 120px;
+  color: LightCyan;
+  font-size: 50px;
+}
+
+#timer {
+  color: GhostWhite;
+  font-size: 22px;
+  padding-bottom: 120px;
+}
+
+h1, #timer {
+  text-align: center;
 }
 
 /* customizable snowflake styling */
