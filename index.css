@@ -1,5 +1,6 @@
 body {
   background-image: url("real-gen.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
   width: 1200px;
   height: 800px;
